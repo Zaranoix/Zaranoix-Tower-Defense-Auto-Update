@@ -1,0 +1,7 @@
+pygame
+math
+random
+sys
+jyson
+os 
+subprocess
